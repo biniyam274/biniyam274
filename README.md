@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I socialize.
 
 - :mailbox:How to reach me 1: [![Linkedin Badge](https://img.shields.io/badge/-Biniyam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/biniyam-a-geinore-629975133)
-- - :mailbox:How to reach me 2: [![Gmail Badge](https://img.shields.io/badge/-Biniyam-blue?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/?view=cm&fs=1&to=biniabera274@gmail.com&su=Github Profile)
+- - :mailbox:How to reach me 2: [![Gmail Badge](https://img.shields.io/badge/-Biniyam-blue?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/?to=biniabera274@gmail.com)
 
 ---
 
@@ -56,4 +56,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-
