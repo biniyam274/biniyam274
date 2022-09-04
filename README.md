@@ -28,7 +28,7 @@
  ---
 
 ### :man_technologist: About Me :
-I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  born and raised  in Ethiopia , Studied CE in Istanbul,Turkey. Just love create jobs for me and other.
+I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  born and raised  in Ethiopia , Studied CE in Istanbul,Turkey. Just love create jobs for me and others.
 
 - :seedling: Love Reading Books .
 
