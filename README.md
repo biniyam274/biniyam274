@@ -28,11 +28,9 @@
  ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  from Ethiopia.
+I am a Computer Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  born and raised  in Ethiopia , Studied CE in Istanbul,Turkey. Just love create jobs for me and other.
 
-- :telescope: I’m a student of  Computer Engineer , An Part-time Employee As Full Stack Developer(sometimes) and A Full Time Programmer Who Is Trying To Build Something Bigger Than Himself.
-
-- :seedling: Reading History Books .
+- :seedling: Love Reading Books .
 
 - :zap: In my free time, I socialize.
 
@@ -41,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Programming languages and tools I use in daily basis are  :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
